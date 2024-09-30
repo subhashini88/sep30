@@ -1,0 +1,34 @@
+
+<ApplicationConnectorRuntime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.applicationconnector.ApplicationConnectorRuntime"
+	typeVersion="0019B981-E9E3-11DF-FAD3-F797D376BD43"
+	RuntimeDocumentID="00505601-0C31-A1EF-9FB8-3CE44565BB64">
+	<DocumentID>00505601-0C31-A1EF-9FB8-3CE445657B64</DocumentID>
+	<Name>CAP Connector</Name>
+	<Description>CAP Connector</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-09-30T04:21:30.265</CreationDate>
+	<Notes/>
+	<BinaryReferenceInfo></BinaryReferenceInfo>
+	<ISVPName></ISVPName>
+	<ImplementationClass>com.cordys.cap.applicationconnector.CAPConnector</ImplementationClass>
+	<RuntimeInstanceLevel></RuntimeInstanceLevel>
+	<RuntimeKey>/Cordys/WCP/Application Connector/com.cordys.cap.applicationconnector.CAPConnector</RuntimeKey>
+	<PackageInformation>
+		<CordysBinaryReferenceCAPInfo
+			type="com.cordys.cws.binaryreference.CordysBinaryReferenceCAPInfo"
+			RuntimeDocumentID="00505601-0C31-A1EF-9FB8-3CE445653B64">
+			<DocumentID>00505601-0C31-A1EF-9FB8-3CE44564FB64</DocumentID>
+			<Name>Untitled CordysBinaryReferenceCAPInfo</Name>
+			<Description>Untitled CordysBinaryReferenceCAPInfo</Description>
+			<CreatedBy>sysadmin</CreatedBy>
+			<CreationDate>2024-09-30T04:21:30.265</CreationDate>
+			<Notes/>
+			<ArtifactID>005056C0-0008-11DF-F553-E6836CA1B701</ArtifactID>
+			<CAPID>005056c0-0008-11e3-e063-483eb6f53fa7</CAPID>
+			<CAPName>Cordys CAP Content</CAPName>
+			<CAPVersion>ver24.2build9</CAPVersion>
+		</CordysBinaryReferenceCAPInfo>
+	</PackageInformation>
+</ApplicationConnectorRuntime>
